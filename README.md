@@ -11,7 +11,7 @@ pip install pywebview pyinstaller
 ### Then go to the cmd and to your folder
 ### Then put this command in:
 ```bash
-pyinstaller --noconsole --onefile --icon=DFCO.ico DarkFoxTerminal.py
+pyinstaller --noconsole --onefile --icon=DFCO.ico DF-Dashboard.py
 ```
 ### Then when it's ready go to the folder and then to the folder dist and you see the file drag it on to your DESKTOP
 ### And it's ready login whit your E-MAIL and you password
